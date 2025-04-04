@@ -1,2 +1,1 @@
-# A-module-
-This A-module 
+# A-module

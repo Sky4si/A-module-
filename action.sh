@@ -1,0 +1,1 @@
+am start "intent:#Intent;action=android.intent.action.VIEW;category=org.lsposed.manager.LAUNCH_MANAGER;package=com.android.shell;component=com.android.shell/.BugreportWarningActivity;end"..
